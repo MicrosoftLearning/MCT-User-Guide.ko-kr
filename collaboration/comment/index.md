@@ -1,27 +1,27 @@
-# Commenting
+﻿# 댓글 달기
 
-You can comment on pull requests and proposed changes (commits) that other users make. When you comment on a commit, you view a source diff of the file, and you then you can comment on specific changes on a line-by-line basis or on the entire commit. You also can make suggestions about an overall project, by submitting an Issue or commenting on an existing Issue.
+다른 사용자의 끌어오기 요청 및 제안된 변경 사항(커밋)에 댓글을 달 수 있습니다. 커밋에 댓글을 달면 파일의 소스 차이를 확인한 후 라인별 특정 변경 사항이나 커밋 전체에 대해 댓글을 달 수 있습니다. 이슈를 제출하거나 기존 이슈에 댓글을 달아서 프로젝트 전체에 대해 제안을 할 수도 있습니다.
 
-## Review and comment on a pull request:
+## 끌어오기 요청 리뷰 및 댓글:
 
-1.	In your browser, navigate to the applicable repo on **GitHub**.
+1.	브라우저에서 **GitHub**의 해당 리포지토리로 이동합니다.
 
-1.	Click **Pull requests *n***, where ***n*** is the number of active pull requests.
+1.	**Pull requests *n*** 을 클릭합니다. 여기서 ***n*** 은 활성 끌어오기 요청의 개수입니다.
 
-2.	Select the pull request that you want to review, and then on the **Write** tab, in the **Leave a comment** text box, input your comment.
+2.	리뷰할 끌어오기 요청을 선택한 후, **Write** 탭의 **Leave a comment** 텍스트 상자에 댓글을 입력합니다.
 
-3.	Click **Comment**.
+3.	**Comment**을 클릭합니다.
 
-## Review and comment on a commit:
+## 커밋 리뷰 및 댓글:
 
-1.	In your browser, navigate to the applicable repo on **GitHub**.
+1.	브라우저에서 **GitHub**의 해당 리포지토리로 이동합니다.
 
-2.	Click ***n commits**, where ***n*** is the number of commits that have been submitted. If you want to review the latest commit, you can select the title/short description of the commit from file list.
+2.	***n commits** 을 클릭합니다. 여기서 ***n*** 은 제출한 댓글의 개수입니다. 가장 최근의 커밋을 리뷰하려면 파일 목록에서 커밋의 제목/간단한 설명을 선택합니다.
 
-3.	In the **source diff** section, select the change on which you want to comment by clicking the plus sign **(+)** that appears when the mouse hovers over the applicable change.
+3.	**source diff** 선택에서 마우스를 해당 변경 사항 위에 올려 놓으면 표시되는 더하기 기호 **(+)** 를 클릭하여 댓글을 달 변경 사항을 선택합니다.
 
-4.	On the **Write** tab, in the **Comment** text box, provide your comment.
+4.	**Write** 탭에서 **Comment** 텍스트 상자에 댓글을 입력합니다.
 
-5.	Click **Comment**.
+5.	**Comment** 을 클릭합니다.
 
-    > **Note**: If you wish to provide an overall comment on the commit, under n comments on commit, where n is the number of comments submitted, and then under the Write tab, in the Leave a comment text box, type your comment, and Click Comment on this commit.
+    > **참고**: 커밋에 대해 전반적인 댓글을 달고 싶다면 커밋의 n 댓글(여기서 n은 제출한 댓글의 개수) > 쓰기 탭 아래의 댓글 텍스트 상자에 댓글을 입력한 후 이 커밋의 댓글을 클릭합니다.
