@@ -1,16 +1,16 @@
-GitHub introduces terminology that might be new to you, and the following list includes terms and concepts that this document uses. However, for a full list of GitHub terms, refer to the “GitHub Glossary” at <https://help.github.com/articles/GitHub-glossary/>. 
+﻿GitHub에 새로운 용어가 추가되었으며, 다음 목록은 본 문서에서 사용하는 용어와 개념이 포함되어 있습니다.  GitHub 용어의 전체 목록은 <https://help.github.com/articles/GitHub-glossary/>에 있는 "GitHub Glossary"를 참조하세요. 
 
-| Term | Explanation |
+| 용어 | 설명 |
 | --- | --- |
-| Git and GitHub | Git is an open-source, change-tracking program, and GitHub is a site/solution built on Git. There are other websites and solutions that use Git as their backend. You would use GitHub primarily for open-source (public) development projects, and it is free for those projects. However, if you want to use GitHub for projects that are private, and not open source, you must sign up for a paid version. |
-| Repo or Repository | Each project in GitHub is in a repository, or repo. A repo contains all of a project’s files, including documentation, and it supports revision history. A repository can be public or private, and you can have a local copy of the repo on your computer hard drive, or you can use the repo within GitHub. |
-| Markdown | This is a text-file format that you can use for creating documentation. It is text-based and very simple to update, which makes it easy to use during collaboration. GitHub then renders it as HTML. |
-| GitHub flavored markdown (GFM) | There are many variations, or flavors, of the Markdown file format. The GitHub version, commonly referred to as GFM, is one of the most common variations of Markdown. For more information about GFM and how you can use the Markup format for your GFM documents, refer to “Getting started with writing and formatting on GitHub” at https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/. |
-| Fork | This is a copy of another repo that resides in your GitHub account, in comparison to a branch, which lives in the original repo. See “Branch” directly below. |
-| Branch | This is a copy of a repository that resides in the same repository as the original. You can merge a branch with the original. |
-| Fetch | This is the process of retrieving a copy of the latest changes from an online repo. However, a fetch does not merge changes. |
-| Pull | This is the process of fetching the latest changes from an online repo and merging them with local changes. |
-| Merge | This is the process of fetching changes from one branch and applying them to another. This includes retrieving changes from an online repo, and then applying them to that repo’s local version. |
-| Pull request | This is a set of proposed changes to a repo that a user submit, and a repo’s owners or collaborators then can accept or reject the pull request. |
-| Push | This is the process of sending or submitting your local changes to the online repo. |
-| Collaborator | This is a GitHub user that has permissions to add, delete, or change a repo’s content. |
+| Git 및 GitHub | Git는 오픈 소스를 기반으로 한 변경 내용 추적 프로그램이며, GitHub는 Git에 구축된 사이트/솔루션입니다. Git를 백엔드로 사용하는 다른 웹 사이트와 솔루션이 있습니다. GitHub는 주로 오픈 소스(공개) 개발 프로젝트에 주로 사용하며, 이러한 프로젝트에는 무료입니다. 그러나, GitHub를 오픈 소스가 아닌 개인 프로젝트에 사용할 경우에는 유료 버전에 가입해야 합니다. |
+| 리포지토리 | GitHub의 각 프로젝트는 리포지토리에 있습니다. 리포지토리에는 문서 등 모든 프로젝트 파일이 포함되어 있으며, 수정 기록을 지원합니다. 리포지토리는 공개 또는 비공개이며, 컴퓨터 하드 드라이브에 리포지토리 로컬 복사본을 저장하거나 GitHub 내에서 리포지토리를 사용할 수 있습니다.  |
+| Markdown | 문서를 만들 때 사용할 수 있는 텍스트 파일 형식입니다. 텍스트를 기반으로 하며 업데이트가 매우 용이하여 공동 작업 시 사용이 편리합니다. 이후 GitHub는 이것을 HTML로 렌더링합니다. |
+| GFM(GitHub 버전이 지정된 Markdown) | Markdown 파일 형식에는 수많은 변형이나 버전이 있습니다. 흔히 GFM라고 하는 GitHub 버전은 가장 일반적인 Markdown 변형 중 하나입니다. GFM, 그리고 GFM 문서에 Markup 형식을 사용하는 방법은 https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/에 있는 "Getting started with writing and formatting on GitHub"를 참조하세요. |
+| 포크 | 원본 리포지토리에 상주하는 분기와 다르게, GitHub 계정에 상주하는 또 다른 리포지토리 복사본입니다. 아래의 "분기"를 직접 참조하세요. |
+| 분기 | 원본과 동일한 리포지토리에 상주하는 리포지토리 복사본입니다. 분기를 원본과 병합할 수 있습니다. |
+| 가져오기 | 온라인 리포지토리에서 최신 변경 내용의 사본을 가져오는 작업입니다. 그러나, 가져오기는 변경 내용을 병합하지 않습니다. |
+| 끌어오기 | 온라인 리포지토리에서 최신 변경 내용을 가져와서 로컬 변경 내용과 병합하는 작업입니다. |
+| 병합 | 온라인 분기에서 변경 내용을 가져와서 다른 분기에 적용하는 작업입니다. 여기에는 온라인 리포지토리에서 변경 내용을 가져온 후 해당 리포지토리의 로컬 버전에 적용하는 것이 포함됩니다. |
+| 끌어오기 요청 | 사용자가 제출하는 리포지토리에 제안된 일련의 변경 내용이며, 이후 리포지토리 owner 또는 협력자가 끌어오기 요청을 수락하거나 거부할 수 있습니다. |
+| 밀어넣기 | 로컬 변경 내용을 온라인 리포지토리로 보내거나 제출하는 작업입니다. |
+| 협력자 | 리포지토리의 내용을 추가, 삭제 또는 변경할 수 있는 권한이 있는 GitHub 사용자입니다. |
