@@ -1,17 +1,17 @@
-# Watching a repo
+﻿# 리포지토리 감시
 
-The simplest way to make sure you know about any changes to a repo is to watch it. You can do that, even if you do not clone a local copy of the repo.
+리포지토리 변경 내용을 알 수 있는 가장 간단한 방법은 감시하는 것입니다. 리포지토리의 로컬 복사본을 복제하지 않더라도 감시할 수 있습니다.
 
-To watch a repo, perform the following steps:
+리포지토리를 감시하려면 다음 단계를 수행합니다.
 
-1.	In Internet Explorer, navigate to the repo on GitHub.
+1.	Internet Explorer에서 GitHub의 리포지토리로 이동합니다.
 
-2.	Click **Watch**, and then under **Notifications**, select **Watching**.
+2.	**Watch** 를 클릭한 후 **Notifications** 에서 **Watching** 를 선택합니다.
 
-To quit watching a repo, perform the following steps:
+리포지토리 감시를 종료하려면 다음 단계를 수행합니다.
 
-1.	In Internet Explorer, navigate to the repo on GitHub.
+1.	Internet Explorer에서 GitHub의 리포지토리로 이동합니다.
 
-2.	Click **Watch**, and then under Notifications, select **Not watching**.
+2.	**Watching** 를 클릭한 후 알림에서 **Not watching** 을 선택합니다.
 
-> **Note**: You can select the **Ignoring** option under the **Watch** drop-down list. However, this means that you receive no notifications, even if another user includes you in a discussion with the mention functionality and your GitHub user name. Therefore, you should be careful configuring the **Ignoring** option.
+> **참고**: **Ignoring** 드롭다운 목록에서 **Watch** 를 선택할 수 있습니다. 그러나, 이 경우 다른 사용자가 멘션 기능으로 토론에서 당신과 다른 GitHub 사용자 이름을 포함하더라도 알림을 받지 못합니다. 따라서, **Ignoring** 옵션을 선택할 때 주의해야 합니다.
