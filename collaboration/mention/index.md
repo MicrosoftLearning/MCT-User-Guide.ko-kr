@@ -1,7 +1,7 @@
-# Mention a GitHub user in a comment:
+﻿# 댓글에서 GitHub 사용자 멘션:
 
-1.	In your browser, navigate to the applicable repo on **GitHub**.
+1.	브라우저에서 **GitHub** 의 해당 리포지토리로 이동합니다.
 
-2.	Create your comment or issue, as described previously, and then in the **comment** text box, type **@**, followed by the user or team name, within the comment.
+2.	앞에서 설명한 대로 댓글이나 이슈를 만든 후 **댓글** 텍스트 상자의 댓글 내에서 **@** 뒤에 사용자 또는 팀 이름을 입력합니다. 
 
-    > **Note**: When you type the **@** symbol, a list appears that contains GitHub users who are collaborators on the applicable project and anyone who is participating in the project’s comments. The list uses autocomplete as you type, so that you can filter the list easily.
+    > **참고**: **@** 기호를 입력할 경우, 해당 프로젝트의 협력자인 GitHub 사용자 및 프로젝트의 댓글에 참여하고 있는 모든 사람이 포함된 목록이 표시됩니다. 목록은 입력 시 자동 완성을 사용하기 때문에 목록을 손쉽게 필터링할 수 있습니다.
