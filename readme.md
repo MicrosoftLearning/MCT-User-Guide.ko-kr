@@ -1,23 +1,23 @@
-# GitHub User Guide for MCTs
+﻿# MCT용 사용자 가이드
 
-Cloud services, such as Microsoft Azure, are updated frequently. This leads to issues for Microsoft Certified Trainers (MCTs) when they teach courses, because lab steps change frequently as the service changes. Due to the frequency of the changes and the fact that there may not be any notification when changes occur, it can be difficult for the course development team to rapidly identify and address any lab changes. 
+Microsoft Azure 등과 같은 클라우드 서비스는 자주 업데이트됩니다. 따라서, 서비스 변경으로 인해 랩 단계가 자주 바뀌기 때문에 MCT(Microsoft Certified Trainer)가 과정을 진행할 때 문제가 발생합니다. 잦은 변경 시 변경된 내용에 대한 알림이 없을 수 있기 때문에 과정 개발 팀이 랩 변경을 신속히 파악하고 대비하는 데 어려움이 있을 수 있습니다.  
 
-To address these issues, we are using GitHub to publish the lab steps and lab scripts for courses that cover cloud services like Azure. Using GitHub allows the course’s authors and MCTs to keep the lab content current with Azure platform changes. Using GitHub allows the MCTs to provide feedback and suggestions for lab changes, and then the course authors can update lab steps and scripts quickly and relatively easily.
+이러한 문제를 해결하기 위해 GitHub를 사용하여 Azure 등 클라우드 서비스를 포함하는 과정의 랩 단계 및 랩 스크립트를 게시합니다. GitHub를 사용하면 과정 작성자 및 MCT가 Azure 플랫폼 변경으로 랩 내용을 동기화할 수 있습니다. GitHub를 사용하면 MCT가 랩 변경에 대한 피드백과 제안 사항을 제공하여 과정 작성자가 랩 단계와 스크립트를 빠르고 손쉽게 업데이트할 수 있습니다.
 
-When you prepare to teach these courses, you should ensure that you are using the latest lab steps and scripts by downloading the appropriate files from GitHub. 
+이 과정을 가르치기 위해 준비할 때 GitHub에서 해당 파일을 다운로드하여 최신 랩 단계와 스크립트를 사용할 수 있도록 해야 합니다. 
 
-This user guide is for MCTs who are new to GitHub, and it provides steps for connecting to GitHub, downloading and printing course materials, updating the scripts that students use in labs, and explaining how you can help ensure that this course’s content remains current.
+이 사용자 가이드는 GitHub를 처음 사용하는 MCT용이며, GitHub에 접속하여 과정 자료를 다운로드 및 인쇄하고, 학생들이 랩에서 사용하는 스크립트를 업데이트하고, 이 과정의 내용을 최신 상태로 유지하는 방법을 설명합니다.
 
-> **Note**: It is strongly recommended that MCTs and Partners access these materials and in turn, provide them separately to students.  Pointing students directly to GitHub to access Lab steps as part of an ongoing class will require them to access yet another UI as part of the course, contributing to a confusing experience for the student. An explanation to the student regarding why they are receiving separate Lab instructions can highlight the nature of an always-changing cloud-based interface and platform. Microsoft Learning support for accessing files on GitHub and support for navigation of the GitHub site is limited to MCTs teaching this course only.
+> **참고**: MCT와 파트너는 이 자료에 액세스하고, 반대로 이를 별도로 학생들에게 제공할 것을 강력히 권장합니다.  진행 중인 수업의 일환으로 학생들에게 직접 GitHub를 알려주어 랩 단계에 액세스하도록 하면 학생들이 과정의 일부로 다른 UI에 액세스해야 하기 때문에 혼란이 발생할 수 있습니다. 별도의 랩 지침을 수신하는 이유와 관련하여 학생들에게 설명하면 항상 변하는 클라우드 기반 인터페이스와 플랫폼의 특성을 강조할 수 있습니다. GitHub에서 파일 액세스를 위한 Microsoft Learning 지원 및 GitHub 사이트의 탐색을 위한 지원은 이 과정만 가르치는 MCT로 제한되어 있습니다.
 
-GitHub should not be used to discuss technical content in the course, or how to prep. It is specifically to address changes in the labs.
+과정에서 기술적인 내용을 논의하거나 준비하는 방법을 논의하는 데 GitHub를 사용해서는 안 됩니다. 랩에서 변경 내용을 다루는 데에만 사용합니다. 
 
-> **Note**: To address general comments about the course and demos, or how to prepare for the course, please use the MCT forums.
+> **참고**: 과정 및 데모 또는 과정을 준비하는 방법에 대한 일반 댓글을 다루려면 MCT 포럼을 사용하십시오.
 
-## Sections
+## 섹션
 
-- [GitHub Terminology](terminology/)
+- [GitHub 용어](terminology/)
 
-- [Microsoft Learning's GitHub solution for course labs](solution/)
+- [과정 랩을 위한 Microsoft Learning의 GitHub 솔루션](solution/)
 
-- [Receiving update notifications, suggesting changes, and collaborating on projects](collaboration/)
+- [업데이트 알림 수신, 변경 제안, 프로젝트 공동 작업](collaboration/)
