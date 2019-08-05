@@ -1,23 +1,23 @@
-# Issues
+﻿# 이슈
 
-Whenever you create an issue, or a comment on a pull request or commit, you also can include other GitHub users or teams into the conversation by performing a **mention** of them in the comment’s body. If you are familiar with social media services, this feature will look very familiar.
+이슈를 생성하거나 끌어오기 요청이나 커밋에 댓글을 달 때 댓글 본문에 다른 GitHub 사용자나 팀을 **멘션**하여 이들을 대화에 포함시킬 수 있습니다. 소셜 미디어 서비스에 익숙한 경우라면 이 기능에 매우 익숙할 것입니다.
 
-## Submit an issue
+## 이슈 제출
 
-1.	In your browser, navigate to the applicable repo on **GitHub**.
+1.	브라우저에서 **GitHub** 의 해당 리포지토리로 이동합니다.
 
-2.	Click **Issues**, and then click **New issue**.
+2.	**Issues** 를 클릭한 후 **New issue** 를 클릭합니다.
 
-3.	In the **Title** text box, enter the title for the issue, and then in the **Leave a comment** text box, type a description of the issue or suggestion.
+3.	**Title** 텍스트 상자에 이슈 제목을 입력한 후 **Leave a comment** 텍스트 상자에 이슈나 제안의 설명을 입력합니다.
 
-4.	Click **Submit new issue**.
+4.	**Submit new issue** 을 클릭합니다.
 
-## Review and comment on an existing issue
+## 기존 이슈 리뷰 및 댓글
 
-1.	In your browser, navigate to the applicable repo on **GitHub**.
+1.	브라우저에서 **GitHub** 의 해당 리포지토리로 이동합니다.
 
-2.	Click **Issues**, and then select the title of the issue that you want to review.
+2.	**Issues** 를 클릭한 후 리뷰할 이슈의 제목을 선택합니다.
 
-3.	On the **Issue name** page, on the **Write** tab, in the **Leave a comment** text box, type your comment.
+3.	**Issue name** 페이지의 **Write** 탭에서 **Leave a comment** 텍스트 상자에 댓글을 입력합니다.
 
-4.	Click **Comment**.
+4.	**Comment** 을 클릭합니다.
